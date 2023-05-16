@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hieub
+Build-Jdk: 17.0.6
+Implementation-Title: employee_management
+Implementation-Version: 1,0
+Implementation-Vendor-Id: com.hoangminhhieu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/employee_management
+Created-By: Maven Integration for Eclipse
+
